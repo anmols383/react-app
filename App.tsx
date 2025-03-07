@@ -89,11 +89,11 @@ function App(): React.JSX.Element {
             paddingHorizontal: safePadding,
             paddingBottom: safePadding,
           }}>
-          <Section title="Step One">
+          <Section title="FIRST STEP">
             Edit <Text style={styles.highlight}>App.tsx</Text> to change this
             screen and then come back to see your edits.
           </Section>
-          <Section title="See Your Changes">
+          <Section title="I See Changes here">
             <ReloadInstructions />
           </Section>
           <Section title="Debug">
